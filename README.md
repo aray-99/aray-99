@@ -1,3 +1,2 @@
-- B4
 - C/C++, Python
 - **LaTeX**
