@@ -1,2 +1,2 @@
-- C/C++, Python
-- **LaTeX**
+- Language : C/C++ and Python
+- Software : $$\LaTeX$$ and WSL
